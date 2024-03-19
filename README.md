@@ -58,6 +58,6 @@
 
 
 <h1>💭 ABOUT ME 💭</h1>
-
+<div align=center> 
 <a href="https://butter-meadow-51e.notion.site/77c76470c0104a6692f597bfe627ce2a" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
 </div>

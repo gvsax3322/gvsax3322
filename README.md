@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm donghwan choi</h1>
-<h3 align="center">A passionate frontend developer from South Korea</h3>
+<h1 align="center">백경국</h1>
+<h3 align="center">대한민국의 열정적인 프론트엔드 개발자</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gvsax3322&label=Profile%20views&color=0e75b6&style=flat" alt="gvsax3322" /> </p>
 

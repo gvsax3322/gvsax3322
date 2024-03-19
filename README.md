@@ -55,3 +55,9 @@
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gvsax3322&show_icons=true&locale=en" alt="gvsax3322" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gvsax3322&" alt="gvsax3322" /></p>
+
+
+<h1>💭 ABOUT ME 💭</h1>
+
+<a href="https://butter-meadow-51e.notion.site/77c76470c0104a6692f597bfe627ce2a" target="_blank"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=ffffff"/></a>
+</div>
